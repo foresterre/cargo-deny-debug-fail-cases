@@ -1,0 +1,1 @@
+/hack # this version is the same as fail0 except the license-file path was absolute instead of relative; it worked before the fix
